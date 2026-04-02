@@ -1,0 +1,14 @@
+.listHeading{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    text-align: center;
+    align-items: center;
+}
+
+.indicatorButton{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgb(162, 222, 162);
+    padding: 10px;
+}
